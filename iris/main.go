@@ -1,1 +1,1 @@
-package ma
+package mai

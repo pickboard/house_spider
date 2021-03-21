@@ -3,4 +3,4 @@ package main
 import (
 	"fmt"
 
-	"github.com/sjwhitworth/golea
+	"github.com/sjwhitworth/golearn

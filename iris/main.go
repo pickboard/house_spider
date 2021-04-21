@@ -4,4 +4,4 @@ import (
 	"fmt"
 
 	"github.com/sjwhitworth/golearn/base"
-	"github.com/sjwhi
+	"github.com/sjwhit

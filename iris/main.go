@@ -8,4 +8,4 @@ import (
 	"github.com/sjwhitworth/golearn/knn"
 )
 
-func
+func ma

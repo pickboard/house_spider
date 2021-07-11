@@ -9,4 +9,4 @@ import (
 )
 
 func main() {
-	fmt.Prin
+	fmt.Print

@@ -9,4 +9,4 @@ import (
 )
 
 func main() {
-	fmt.Println("L
+	fmt.Println("Lo

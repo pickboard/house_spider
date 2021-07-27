@@ -9,4 +9,4 @@ import (
 )
 
 func main() {
-	fmt.Println("Loading CSV 
+	fmt.Println("Loading CSV da

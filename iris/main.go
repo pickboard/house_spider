@@ -10,4 +10,4 @@ import (
 
 func main() {
 	fmt.Println("Loading CSV data")
-	rawData, err := base.ParseCSVToIns
+	rawData, err := base.ParseCSVToInsta

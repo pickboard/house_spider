@@ -10,4 +10,4 @@ import (
 
 func main() {
 	fmt.Println("Loading CSV data")
-	rawData, err := base.ParseCSVToInstances("iris_
+	rawData, err := base.ParseCSVToInstances("iris_hea

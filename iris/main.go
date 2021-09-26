@@ -13,3 +13,4 @@ func main() {
 	rawData, err := base.ParseCSVToInstances("iris_headers.csv", true)
 	if err != nil {
 		panic(err)
+	}

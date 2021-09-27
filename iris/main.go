@@ -15,4 +15,4 @@ func main() {
 		panic(err)
 	}
 
-	f
+	fmt

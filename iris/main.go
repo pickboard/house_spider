@@ -15,4 +15,4 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Printl
+	fmt.Println

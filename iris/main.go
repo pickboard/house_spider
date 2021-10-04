@@ -15,4 +15,4 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Println("Ini
+	fmt.Println("Init

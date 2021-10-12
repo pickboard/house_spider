@@ -15,4 +15,4 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Println("Initializing KNN Classi
+	fmt.Println("Initializing KNN Classif

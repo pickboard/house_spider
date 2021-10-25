@@ -16,4 +16,4 @@ func main() {
 	}
 
 	fmt.Println("Initializing KNN Classifer")
-	cls := knn.NewKnnClassifier("euc
+	cls := knn.NewKnnClassifier("eucl

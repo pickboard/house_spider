@@ -17,3 +17,4 @@ func main() {
 
 	fmt.Println("Initializing KNN Classifer")
 	cls := knn.NewKnnClassifier("euclidean", "linear", 2)
+

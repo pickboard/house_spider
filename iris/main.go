@@ -18,4 +18,4 @@ func main() {
 	fmt.Println("Initializing KNN Classifer")
 	cls := knn.NewKnnClassifier("euclidean", "linear", 2)
 
-	fmt.Println("Performing T
+	fmt.Println("Performing Tra

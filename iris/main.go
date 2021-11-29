@@ -19,4 +19,4 @@ func main() {
 	cls := knn.NewKnnClassifier("euclidean", "linear", 2)
 
 	fmt.Println("Performing Train-Test Split")
-	trainData, testData := base.InstancesTrainTestSplit(r
+	trainData, testData := base.InstancesTrainTestSplit(ra

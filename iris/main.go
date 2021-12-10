@@ -21,3 +21,4 @@ func main() {
 	fmt.Println("Performing Train-Test Split")
 	trainData, testData := base.InstancesTrainTestSplit(rawData, 0.50)
 	cls.Fir(trainData)
+

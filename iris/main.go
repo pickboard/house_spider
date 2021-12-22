@@ -22,4 +22,4 @@ func main() {
 	trainData, testData := base.InstancesTrainTestSplit(rawData, 0.50)
 	cls.Fir(trainData)
 
-	fmt.Println("Calculating the Euc
+	fmt.Println("Calculating the Eucl

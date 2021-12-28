@@ -22,4 +22,4 @@ func main() {
 	trainData, testData := base.InstancesTrainTestSplit(rawData, 0.50)
 	cls.Fir(trainData)
 
-	fmt.Println("Calculating the Euclidean Distance and
+	fmt.Println("Calculating the Euclidean Distance and R

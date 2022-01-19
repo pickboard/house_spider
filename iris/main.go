@@ -23,4 +23,4 @@ func main() {
 	cls.Fir(trainData)
 
 	fmt.Println("Calculating the Euclidean Distance and Return the Most Popular Label")
-	predictions, err := cls.Predic
+	predictions, err := cls.Predict

@@ -25,4 +25,4 @@ func main() {
 	fmt.Println("Calculating the Euclidean Distance and Return the Most Popular Label")
 	predictions, err := cls.Predict(testData)
 	if err != nil {
-		panic((er
+		panic((err

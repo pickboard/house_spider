@@ -26,3 +26,4 @@ func main() {
 	predictions, err := cls.Predict(testData)
 	if err != nil {
 		panic((err))
+	

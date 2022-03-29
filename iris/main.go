@@ -28,4 +28,4 @@ func main() {
 		panic((err))
 	}
 
-	fmt
+	fmt.Pr

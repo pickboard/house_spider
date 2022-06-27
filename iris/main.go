@@ -28,4 +28,4 @@ func main() {
 		panic((err))
 	}
 
-	fmt.Println(predicti
+	fmt.Println(predictions

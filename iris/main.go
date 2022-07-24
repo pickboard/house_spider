@@ -30,4 +30,4 @@ func main() {
 
 	fmt.Println(predictions)
 
-	fm
+	fmt

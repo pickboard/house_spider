@@ -30,4 +30,4 @@ func main() {
 
 	fmt.Println(predictions)
 
-	fmt.Println("Printing Metrics S
+	fmt.Println("Printing Metrics Su

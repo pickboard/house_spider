@@ -32,4 +32,4 @@ func main() {
 
 	fmt.Println("Printing Metrics Summary")
 
-	confusionMatrix, err := evaluation.GetConfusionMatri
+	confusionMatrix, err := evaluation.GetConfusionMatrix

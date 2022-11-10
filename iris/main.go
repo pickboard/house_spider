@@ -33,4 +33,4 @@ func main() {
 	fmt.Println("Printing Metrics Summary")
 
 	confusionMatrix, err := evaluation.GetConfusionMatrix(testData, predictions)
-	if err !=
+	if err != 

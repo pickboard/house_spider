@@ -34,4 +34,4 @@ func main() {
 
 	confusionMatrix, err := evaluation.GetConfusionMatrix(testData, predictions)
 	if err != nil {
-		panic(fmt.Sprintf("Una
+		panic(fmt.Sprintf("Unab

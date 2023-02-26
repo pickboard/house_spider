@@ -37,3 +37,4 @@ func main() {
 		panic(fmt.Sprintf("Unable to get Confusion Matrix: %s", err.Error()))
 	}
 	fmt.Println(evaluation.GetSummary(confusionMatrix))
+}
